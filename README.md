@@ -14,10 +14,10 @@ Key features
 
 Getting started
 Need Xcode 16+ and iOS 17.0+ to run
-    1 Download the code
-      - https://github.com/Opshanka/Random-User
-    2 Open in Xcode
-    3 Run the app
+1 Download the code
+ - https://github.com/Opshanka/Random-User
+2 Open in Xcode
+3 Run the app
 
 How it works
 -https://randomuser.me/api/?results=20
