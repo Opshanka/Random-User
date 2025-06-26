@@ -24,23 +24,22 @@ How it works
 
 <pre><code> Sample API Response
 {
-"results": [
-{
-"gender": "female",
-"name": {
-"title": "Ms",
-"first": "Jane",
-"last": "Doe"
-},
-"email": "jane.doe@example.com",
-"phone": "123-456-7890",
-"picture": {
-"large": "https://randomuser.me/api/portraits/women/1.jpg",
-"thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
-}
-}
-// ...
-]
+ "results": [
+    {
+        "gender": "female",
+        "name": {
+            "title": "Ms",
+            "first": "Jane",
+            "last": "Doe"
+        },
+        "email": "jane.doe@example.com",
+        "phone": "123-456-7890",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/1.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+        }
+        }
+    ]
 }
 </code></pre>
 
