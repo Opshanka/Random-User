@@ -15,14 +15,14 @@ Key features
 Getting started
 Need Xcode 16+ and iOS 17.0+ to run
 1 Download the code
- - https://github.com/Opshanka/Random-User
-2 Open in Xcode
-3 Run the app
+ - https://github.com/Opshanka/Random-User <br />
+2 Open in Xcode <br />
+3 Run the app <br />
 
 How it works
 -https://randomuser.me/api/?results=20
 
-Sample API Response
+<pre><code> Sample API Response
 {
 "results": [
 {
@@ -42,6 +42,7 @@ Sample API Response
 // ...
 ]
 }
+</code></pre>
 
 What were your priorities, and why?
  - My top priority was implementing core functionalities - Scrollable list of users from the Random User API and detail view for each user
